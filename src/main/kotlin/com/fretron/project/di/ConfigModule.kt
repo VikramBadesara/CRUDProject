@@ -8,8 +8,9 @@ import javax.inject.Singleton
 @Module
 class ConfigModule {
 
-//    @Provides
-//    @Named(CRUDPROJECT_APP_IP)
+    @Provides
+    @Named(CRUDPROJECT_APP_IP)
+
 
 
 }
